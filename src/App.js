@@ -1,5 +1,7 @@
 import logo from "./logo.png";
 import "./App.css";
+import Dictionary from "./Dictionary";
+import Footer from "./Footer";
 
 function App() {
   return (
@@ -14,6 +16,10 @@ function App() {
           </div>
         </div>
       </header>
+      <main>
+        <Dictionary />
+      </main>
+      <Footer />
     </div>
   );
 }
