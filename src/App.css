@@ -1,7 +1,17 @@
+body {
+  background-color: rgb(200, 236, 236);
+}
+
+a {
+  color: rgb(75, 75, 165);
+}
+
 .App-header {
-  margin: 30px auto;
+  margin: 30px 30px 20px;
   background-color: rgb(175, 175, 246);
   padding: 0 20%;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+  border-radius: 7px;
 }
 
 .App-logo {

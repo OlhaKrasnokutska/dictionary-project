@@ -1,0 +1,7 @@
+.Results h2 {
+  text-transform: uppercase;
+  font-weight: 700;
+  margin: 10px 0px;
+  color: rgb(75, 75, 165);
+  text-decoration: underline;
+}
