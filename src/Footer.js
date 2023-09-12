@@ -7,7 +7,7 @@ export default function Dictionary() {
       <b>
         <em>
           <a
-            href="https://github.com/Olechka31"
+            href="https://github.com/OlhaKrasnokutska/dictionary-project"
             target="_blank"
             rel="noreferrer"
           >
